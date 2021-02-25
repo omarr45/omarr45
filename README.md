@@ -27,6 +27,10 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='Instagram' height='40'>](https://www.instagram.com/omar_abdelrahman45/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/OmarAbdulRahman45)  
 
+### 🌟 Streak:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omarr45&theme=radical)](https://github.com/omarr45)
+
+
 ### 📈 Stats:
 [![Omarr45's github stats](https://github-readme-stats.vercel.app/api?username=omarr45&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/omarr45?tab=repositories)
   
