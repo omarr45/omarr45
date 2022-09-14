@@ -1,7 +1,7 @@
 ## Hi there, I'm Omar AbdulRahman 👋
 
 ### I am a junior software engineer, passionate to try new things.
-- 📚  Studying Computer Science at FCIS - ASU year 2.
+- 📚  Studying Computer Science at FCIS - ASU year 4.
 - 📌  Lives in Cairo, Egypt.
 
 ### 👨🏻‍💻 Languages and Skills:
