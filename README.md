@@ -4,6 +4,8 @@
 - 📚  Studying Computer Science at FCIS - ASU year 4.
 - 📌  Lives in Cairo, Egypt.
 
+### You can check my updated CV [here](https://raw.githubusercontent.com/omarr45/omarr45/master/Omar%20AbdulRahman%20CV.pdf) 
+
 ### 👨🏻‍💻 Languages and Skills:
 [<img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />]()
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />]()
