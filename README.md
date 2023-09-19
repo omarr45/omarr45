@@ -1,36 +1,80 @@
-## Hi there, I'm Omar AbdulRahman 👋
+<div align="center">
+  <img height="150" src="https://github.com/omarr45/omarr45/assets/58887202/5209bda5-93a8-4c54-a8cd-b64f26d67934"  />
+</div>
 
-### a frontend developer, passionate to try new things.
-- 📚  FCIS - ASU Graduate.
-- 📌  Located at Madinaty, Cairo - Egypt.
+###
 
-### You can check my updated CV [here](https://raw.githubusercontent.com/omarr45/omarr45/master/Omar%20AbdulRahman%20CV.pdf) 
+<div align="center">
+  <a href="https://www.omar45.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=dribbble&label=&color=53ad2d&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Potfolio"  />
+  </a>
+  <a href="https://www.linkedin.com/in/omar45/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin profile"  />
+  </a>
+  <a href="https://www.youtube.com/@Omar45" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Youtube Channel"  />
+  </a>
+  <a href="https://twitter.com/Omar_ARahman45" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter Account"  />
+  </a>
+</div>
 
-### 👨🏻‍💻 Languages and Skills:
-[<img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />]()
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />]()
-[<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" />]()
-[<img align="left" alt="CSS3" width="26px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" />]()
-[<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/firebase/firebase.png" />]()
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />]()
-[<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />]()
-[<img align="left" alt="VSCode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />]()
-<br>
-### <br> 📫 How to reach me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg' alt='Email' height='40'>](mailto:omar.a.rahman45@gmail.com)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='40'>](https://github.com/omarr45)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='Facebook' height='40'>](https://www.facebook.com/omartist45)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='Instagram' height='40'>](https://www.instagram.com/omar_abdelrahman45/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/OmarAbdulRahman45) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/omar45/) 
+###
 
+<h1 align="center">Hello 👋</h1>
 
-### 🌟 Streak:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omarr45&theme=radical)](https://github.com/omarr45)
+###
 
+<h3 align="left">👩‍💻  About Me</h3>
 
-### 📈 Stats:
-[![Omarr45's github stats](https://github-readme-stats.vercel.app/api?username=omarr45&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/omarr45?tab=repositories)
-  
-### 🏆 Github Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=omarr45&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+###
+
+<p align="left">I'm Omar AbdulRahman<br><br>- 📌 I'm from Cairo, Egypt<br>- 🔭 Working as a Frontend Developer<br>- 📚 Currently learning Astro<br>- 🎓 CS Graduate</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=planetscale" height="40" alt="planetscale logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=omarr45&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
