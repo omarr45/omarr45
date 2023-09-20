@@ -69,6 +69,18 @@
 
 ###
 
+<h3 align="left">🌠   Astro Contributions :</h3>
+
+###
+
+<div align="left">
+  <a href="https://astro.badg.es/v1/contributor/omarr45/">
+  <img src="https://astro.badg.es/v1/contributor/omarr45.svg" alt="@omarr45 Astro contributions" width="300" height="200">
+</a>
+</div>
+
+###
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
